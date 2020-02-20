@@ -1,0 +1,23 @@
+.bg-semi-transparent {
+    background-color: rgba(52, 58, 64, 0.35);
+}
+
+.mw-container {
+    width: 100%;
+    max-width: 1920px;
+    margin: auto;
+}
+
+.nav-logo {
+    height: 100px;
+    width: 100px;
+}
+
+.main-slider-section {
+    background: rgb(200, 200, 202);
+}
+
+#main-carousel img {
+    height: 100vh;
+    max-height: 720px;
+}
